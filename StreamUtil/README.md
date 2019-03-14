@@ -1,0 +1,30 @@
+[try it](https://jitpack.io/#wangtengda0310/snippets/master-SNAPSHOT)
+```
+<repositories>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
+</repositories>
+```
+```
+<dependency>
+    <groupId>com.github.wangtengda0310</groupId>
+    <artifactId>snippets</artifactId>
+    <version>master-SNAPSHOT</version>
+</dependency>
+```
+or
+
+```
+<repositories>
+    <repository>
+        <id>YOUR-PROJECT-NAME-mvn-repo</id>
+        <url>https://raw.github.com/wangtengda0310/snippets/mvn-repo/</url>
+        <snapshots>
+            <enabled>true</enabled>
+            <updatePolicy>always</updatePolicy>
+        </snapshots>
+    </repository>
+</repositories>
+```

@@ -1,0 +1,3 @@
+module streamutil {
+    exports tenda;
+}
