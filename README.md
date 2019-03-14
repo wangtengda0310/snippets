@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/wangtengda0310/snippets.svg?branch=master)](https://travis-ci.org/wangtengda0310/snippets)
