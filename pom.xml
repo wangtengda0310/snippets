@@ -13,6 +13,8 @@
         <module>StreamUtil</module>
         <module>LogTimeCost</module>
         <module>InjectSpringBeanToNormalObject</module>
+        <module>mail-component</module>
+        <module>sign-event-component</module>
     </modules>
 
 </project>

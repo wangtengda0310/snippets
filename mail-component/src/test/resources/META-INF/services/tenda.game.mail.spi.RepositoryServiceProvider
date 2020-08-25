@@ -1,0 +1,3 @@
+#tenda.game.mail.test.spi.SampleMysqlRepositoryService
+#tenda.game.mail.test.spi.SampleRedisRepositoryService
+tenda.game.mail.test.spi.SampleInMemoryRepositoryService
